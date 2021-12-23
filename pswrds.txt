@@ -1,0 +1,9 @@
+ADMIN
+
+Email id : admin
+Passowrd : test12345
+
+USER / EMPLOYEE
+
+Email id: alteo@yahoo.com
+Password: teo1
