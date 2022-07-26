@@ -1,7 +1,7 @@
 ADMIN
 
 Email id : admin
-Passowrd : test12345
+Passowrd : Test@12345
 
 USER / EMPLOYEE
 
