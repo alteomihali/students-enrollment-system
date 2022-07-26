@@ -5,5 +5,5 @@ Passowrd : Test@12345
 
 USER / EMPLOYEE
 
-Email id: alteo@yahoo.com
-Password: teo1
+Email id: johnny@gmail.com
+Password: Test@123
